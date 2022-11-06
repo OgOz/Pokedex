@@ -1,1 +1,1 @@
-# Pokedex | Demo - Live: https://kreacher71.github.io/Pokedex/
+# Pokedex | Demo - Live: https://ogoz.github.io/Pokedex/
